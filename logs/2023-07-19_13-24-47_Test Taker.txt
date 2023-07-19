@@ -1,0 +1,13 @@
+Expert Name: Test Taker
+
+Requests:
+<question>Identify the conclusion of the following argument. Utilitarian theory is embarrassed by the possibility of utility monsters. A utility monster gets enormous gains in utility, greater than the utility lost by the sacrifices of others. The sacrifices of even large numbers of other people are outweighed by the gains of the utility monster. The theory seems to require that we all be sacrificed in the monste's maw in order to increase total utility. (Robert Nozick, Anarchy, State, and Utopia)</question>
+
+<choice_A>Utilitarian theory is embarrassed by the possibility of utility monsters.</choice_A>
+<choice_B>A utility monster gets enormous gains in utility.</choice_B>
+<choice_C>A utility monster gets gains in utility greater than the utility lost by the sacrifices of others.</choice_C>
+<choice_D>The sacrifices of even large numbers of other people are outweighed by the gains of the utility monster.</choice_D>
+
+Responses:
+<answer>A</answer>
+

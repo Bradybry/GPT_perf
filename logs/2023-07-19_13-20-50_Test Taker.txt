@@ -1,0 +1,13 @@
+Expert Name: Test Taker
+
+Requests:
+<question>Select the best translation into predicate logic: Ms. Jackson lent me some sugar, but neither Janet nor Latoya did.</question>
+
+<choice_A>Lm ∨ ~(Jl ∨ Ll)</choice_A>
+<choice_B>Lm • ~(Lj • Ll)</choice_B>
+<choice_C>Lm • ~(Lj ∨ Ll)</choice_C>
+<choice_D>Lm ∨ ~(Lj • Ll)</choice_D>
+
+Responses:
+<answer>C</answer>
+

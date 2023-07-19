@@ -1,0 +1,13 @@
+Expert Name: Test Taker
+
+Requests:
+<question>Select the best English interpretation of the given proposition, using the following translation key: Ax: x is an apartment Hx: x is a house Lx: x is large Bxy: x is bigger than y (∀x){Ax ⊃ (∀y)[(Hy • Ly) ⊃ ∼Bxy]}</question>
+
+<choice_A>All apartments are not bigger than some large house.</choice_A>
+<choice_B>No apartment is bigger than any large house.</choice_B>
+<choice_C>All large houses are not bigger than some apartment.</choice_C>
+<choice_D>No large house is bigger than all apartments.</choice_D>
+
+Responses:
+<answer>B</answer>
+

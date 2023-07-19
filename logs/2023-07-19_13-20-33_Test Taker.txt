@@ -1,0 +1,13 @@
+Expert Name: Test Taker
+
+Requests:
+<question>Select the best translation into predicate logic: Cecilia breaks my heart if, and only if, Maria is either a problem or a girl.</question>
+
+<choice_A>Bc ≡ (Pm ∨ Gm)</choice_A>
+<choice_B>Bc ≡ (Pm • Gm)</choice_B>
+<choice_C>Bc ⊃ (Pm ∨ Gm)</choice_C>
+<choice_D>Cb ⊃ (Pm • Gm)</choice_D>
+
+Responses:
+<answer>A</answer>
+

@@ -1,0 +1,13 @@
+Expert Name: Test Taker
+
+Requests:
+<question>Select the best translation into predicate logic. José introduces Wilma to Kevin. (j: José; k: Kevin; w: Wilma; Ixyz: x introduces y to z)</question>
+
+<choice_A>Iwkj</choice_A>
+<choice_B>Ijwk</choice_B>
+<choice_C>Iwjk</choice_C>
+<choice_D>Ijkw</choice_D>
+
+Responses:
+<answer>B</answer>
+

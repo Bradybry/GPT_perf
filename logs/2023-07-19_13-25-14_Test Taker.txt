@@ -1,0 +1,13 @@
+Expert Name: Test Taker
+
+Requests:
+<question>Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whether the statements are logically equivalent or contradictory. If neither, determine whether they are consistent or inconsistent. Justify your answers. C ⊃ (D ∨ C) and C · ~D</question>
+
+<choice_A>Logically equivalent</choice_A>
+<choice_B>Contradictory</choice_B>
+<choice_C>Neither logically equivalent nor contradictory, but consistent</choice_C>
+<choice_D>Inconsistent</choice_D>
+
+Responses:
+<answer>C</answer>
+

@@ -1,0 +1,13 @@
+Expert Name: Test Taker
+
+Requests:
+<question>Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose an option with a consistent valuation. (There may be other consistent valuations.) A ⊃ (~B ∨ C) C ⊃ D A ∨ (B · ~D) A ≡ (B ⊃ D)</question>
+
+<choice_A>Inconsistent</choice_A>
+<choice_B>Consistent. Consistent valuation when A and D are true and B and C are false</choice_B>
+<choice_C>Consistent. Consistent valuation when A, B, and D are true and C is false</choice_C>
+<choice_D>Consistent. Consistent valuation when C and D are true and A and B are false</choice_D>
+
+Responses:
+<answer>B</answer>
+

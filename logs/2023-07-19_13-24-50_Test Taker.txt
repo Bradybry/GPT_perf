@@ -1,0 +1,13 @@
+Expert Name: Test Taker
+
+Requests:
+<question>Identify the conclusion of the following argument. All of psychology has gotten stuck in moral prejudices and fears. No one has come close to understanding it as the development of the will to power. However, if a person even begins to regard the effects of hatred, envy, covetousness, and the lust to rule as conditions of life and furthermore, as factors essential to the general economy of life, he will begin to get seasick. At this point, he begins to lose himself, and sail over morality. Thus, psychology becomes again the path to fundamental problems. (Friedrich Nietzsche, Beyond Good and Evil)</question>
+
+<choice_A>All of psychology has gotten stuck in moral prejudices and fears.</choice_A>
+<choice_B>No one has come close to understanding it as the development of the will to power.</choice_B>
+<choice_C>If a person even begins to regard the effects of hatred, envy, covetousness, and the lust to rule as conditions of life and furthermore, as factors essential to the general economy of life, he will begin to get seasick.</choice_C>
+<choice_D>Psychology becomes again the path to fundamental problems.</choice_D>
+
+Responses:
+<answer>D</answer>
+

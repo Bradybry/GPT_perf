@@ -1,0 +1,13 @@
+Expert Name: Test Taker
+
+Requests:
+<question>Which of the given formulas of PL is the best symbolization of the following sentence? Either England's importing beef is not a necessary condition for France's subsidizing agriculture, or China promotes human rights if South Africa supplies diamonds.</question>
+
+<choice_A>(~F ⊃ E) ∨ (C ≡ ~S)</choice_A>
+<choice_B>(~E ⊃ F) ∨ (C ⊃ S)</choice_B>
+<choice_C>(~F ⊃ E) ∨ (C ≡ S)</choice_C>
+<choice_D>~(F ⊃ E) ∨ (S ⊃ C)</choice_D>
+
+Responses:
+<answer>D</answer>
+

@@ -1,0 +1,13 @@
+Expert Name: Test Taker
+
+Requests:
+<question>Select the best translation into predicate logic. Some animals are neglected by cruel people. (Ax: x is an animal; Cx: x is cruel; Px: x is a person; Nxy: x neglects y)</question>
+
+<choice_A>(∃x)[(Ax • Cx) • (∃y)(Py • Nyx)]</choice_A>
+<choice_B>(∃x)[(Cx • Px) • (∃y)(Ay • Nxy)]</choice_B>
+<choice_C>(∃x)[(Ax • Px) • (∃y)(Cy • Nxy)]</choice_C>
+<choice_D>(∃x)(∃y){[(Ax • Cy) • Py] • Nxy)]}</choice_D>
+
+Responses:
+<answer>B</answer>
+

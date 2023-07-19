@@ -1,0 +1,13 @@
+Expert Name: Test Taker
+
+Requests:
+<question>Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.) (T · ~U) ⊃ ~W ~W ⊃ X ~Z ⊃ W ~(X · Z) / T ⊃ U</question>
+
+<choice_A>Valid</choice_A>
+<choice_B>Invalid. Counterexample when T, X, and Z are true and U and W are false</choice_B>
+<choice_C>Invalid. Counterexample when T and X are true and U, W, and Z are false</choice_C>
+<choice_D>Invalid. Counterexample when T, W, and Z are true and U and X are false</choice_D>
+
+Responses:
+<answer>C</answer>
+
